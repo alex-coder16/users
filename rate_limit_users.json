@@ -1,0 +1,28 @@
+{
+    "1334573917985050805": {
+        "timestamps": [
+            1745243428.5630932
+        ],
+        "block_level": 1,
+        "blocked_until": 1744806679.9995778,
+        "blocked": false,
+        "last_prompt": {
+            "content": "Ya",
+            "timestamp": 1745243428.5630932
+        },
+        "last_warning": 1744806497.2507381
+    },
+    "792613567189745696": {
+        "timestamps": [
+            1744777768.955947
+        ],
+        "block_level": 0,
+        "blocked_until": 0,
+        "blocked": false,
+        "last_prompt": {
+            "content": "Nice",
+            "timestamp": 1744777768.955947
+        },
+        "last_warning": 0
+    }
+}
